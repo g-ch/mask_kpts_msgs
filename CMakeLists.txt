@@ -15,6 +15,7 @@ add_message_files(
   Keypoint.msg
   MaskGroup.msg
   MaskKpts.msg
+  ImageWithID.msg
 )
 
 generate_messages(
